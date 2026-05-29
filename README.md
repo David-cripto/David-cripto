@@ -22,11 +22,36 @@ Currently, I am a first-year PhD student at MBZUAI, supervised by [Eric Moulines
 
 ## Selected highlights
 
-| Project | Venue | Focus | Links |
-| --- | --- | --- | --- |
-| [**IDLM**](https://david-cripto.github.io/idlm-project-page/) | ICML 2026 | Few-step diffusion language generation | [Project](https://david-cripto.github.io/idlm-project-page/) / [Paper](https://arxiv.org/abs/2602.19066) / [Code](https://github.com/David-cripto/IDLM) |
-| [**RealUID**](https://arxiv.org/abs/2509.22459) | ICLR 2026 Oral | Real-data inverse distillation | [Paper](https://arxiv.org/abs/2509.22459) / [Code](https://github.com/David-cripto/RealUID) |
-| [**IBMD**](https://openreview.net/pdf?id=UCJSF6Vt0C) | ICML 2025 | Fast bridge-model generation | [Paper](https://openreview.net/pdf?id=UCJSF6Vt0C) / [Code](https://github.com/ngushchin/IBMD) |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Venue</th>
+      <th>Focus</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://david-cripto.github.io/idlm-project-page/"><b>IDLM</b></a></td>
+      <td>ICML 2026</td>
+      <td>Few-step diffusion language generation</td>
+      <td><a href="https://david-cripto.github.io/idlm-project-page/">Project</a> / <a href="https://arxiv.org/abs/2602.19066">Paper</a> / <a href="https://github.com/David-cripto/IDLM">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/abs/2509.22459"><b>RealUID</b></a></td>
+      <td>ICLR 2026 Oral</td>
+      <td>Real-data inverse distillation</td>
+      <td><a href="https://arxiv.org/abs/2509.22459">Paper</a> / <a href="https://github.com/David-cripto/RealUID">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://openreview.net/pdf?id=UCJSF6Vt0C"><b>IBMD</b></a></td>
+      <td>ICML 2025</td>
+      <td>Fast bridge-model generation</td>
+      <td><a href="https://openreview.net/pdf?id=UCJSF6Vt0C">Paper</a> / <a href="https://github.com/ngushchin/IBMD">Code</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## LiSearch
 
