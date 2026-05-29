@@ -3,13 +3,13 @@
 <h3 align="center">From slow samplers to few-step generators.</h3>
 
 <p align="center">
-  <a href="https://david-cripto.github.io/Bio-page/" title="Research website"><img src="assets/social/website.svg" width="46" alt="Website"></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=L88Qc4YAAAAJ" title="Google Scholar"><img src="assets/social/scholar.svg" width="46" alt="Google Scholar"></a>
-  <a href="https://www.linkedin.com/in/david-li-ab07b332b/" title="LinkedIn"><img src="assets/social/linkedin.svg" width="46" alt="LinkedIn"></a>
-  <a href="https://x.com/LiDavid2002" title="X"><img src="assets/social/x.svg" width="46" alt="X"></a>
-  <a href="https://t.me/LiSearch" title="LiSearch Telegram"><img src="assets/social/telegram.svg" width="46" alt="LiSearch Telegram"></a>
-  <a href="https://www.youtube.com/@davidli2272" title="YouTube"><img src="assets/social/youtube.svg" width="46" alt="YouTube"></a>
-  <a href="mailto:David.Li@mbzuai.ac.ae" title="Email"><img src="assets/social/email.svg" width="46" alt="Email"></a>
+  <a href="https://david-cripto.github.io/Bio-page/" title="Research website"><img src="assets/social/website.svg" width="44" alt="Website"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=L88Qc4YAAAAJ" title="Google Scholar"><img src="assets/social/scholar.svg" width="44" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/david-li-ab07b332b/" title="LinkedIn"><img src="assets/social/linkedin.svg" width="44" alt="LinkedIn"></a>
+  <a href="https://x.com/LiDavid2002" title="X"><img src="assets/social/x.svg" width="44" alt="X"></a>
+  <a href="https://t.me/LiSearch" title="LiSearch Telegram"><img src="assets/social/telegram.svg" width="44" alt="LiSearch Telegram"></a>
+  <a href="https://www.youtube.com/@davidli2272" title="YouTube"><img src="assets/social/youtube.svg" width="44" alt="YouTube"></a>
+  <a href="mailto:David.Li@mbzuai.ac.ae" title="Email"><img src="assets/social/email.svg" width="44" alt="Email"></a>
 </p>
 
 ---
@@ -33,8 +33,8 @@ Currently, I am a first-year PhD student at MBZUAI, supervised by [Eric Moulines
 I run **LiSearch**, a small channel for reading, explaining, and discussing generative model papers.
 
 <p>
-  <a href="https://t.me/LiSearch"><img src="assets/social/telegram.svg" width="42" alt="LiSearch Telegram"></a>
-  <a href="https://www.youtube.com/@davidli2272"><img src="assets/social/youtube.svg" width="42" alt="LiSearch YouTube"></a>
+  <a href="https://t.me/LiSearch"><img src="assets/social/telegram.svg" width="40" alt="LiSearch Telegram"></a>
+  <a href="https://www.youtube.com/@davidli2272"><img src="assets/social/youtube.svg" width="40" alt="LiSearch YouTube"></a>
 </p>
 
 ## Connect
