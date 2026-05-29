@@ -16,7 +16,7 @@
 
 ## About me
 
-I work on fast generative modeling: distilling strong diffusion and matching-model teachers into compact students that sample in a few steps.
+I work on fast generative modeling: distilling diffusion and matching-model teachers into compact students that sample in a few steps.
 
 Currently, I am a first-year PhD student at MBZUAI, supervised by [Eric Moulines](https://mbzuai.ac.ae/study/faculty/professor-eric-moulines/), [Maxim Panov](https://mbzuai.ac.ae/study/faculty/maxim-panov/), and [Alexander Korotin](https://akorotin.netlify.app/).
 
