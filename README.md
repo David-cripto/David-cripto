@@ -64,4 +64,4 @@ I run **LiSearch**, a small channel for reading, explaining, and discussing gene
 
 ## Connect
 
-For the full publication list, see my [research page](https://david-cripto.github.io/Bio-page/). For a quick conversation, reach me by [email](mailto:David.Li@mbzuai.ac.ae), [LinkedIn](https://www.linkedin.com/in/david-li-ab07b332b/), or [X](https://x.com/LiDavid2002).
+For the full publication list, see my [research page](https://david-cripto.github.io/Bio-page/). For a conversation, reach me by [email](mailto:David.Li@mbzuai.ac.ae), [LinkedIn](https://www.linkedin.com/in/david-li-ab07b332b/), or [X](https://x.com/LiDavid2002).
