@@ -22,55 +22,11 @@ Currently, I am a first-year PhD student at MBZUAI, supervised by [Eric Moulines
 
 ## Selected highlights
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">Venue</th>
-      <th align="left">Focus</th>
-      <th align="left">Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://david-cripto.github.io/idlm-project-page/"><b>IDLM</b></a><br>
-        <sub>Inverse-distilled Diffusion Language Models</sub>
-      </td>
-      <td><b>ICML 2026</b></td>
-      <td>Few-step diffusion language generation.</td>
-      <td>
-        <a href="https://david-cripto.github.io/idlm-project-page/">Project</a> /
-        <a href="https://arxiv.org/abs/2602.19066">Paper</a> /
-        <a href="https://github.com/David-cripto/IDLM">Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://arxiv.org/abs/2509.22459"><b>RealUID</b></a><br>
-        <sub>Universal Inverse Distillation</sub>
-      </td>
-      <td><b>ICLR 2026</b><br><sub>Oral</sub></td>
-      <td>Real-data supervision for inverse distillation, without GAN training.</td>
-      <td>
-        <a href="https://arxiv.org/abs/2509.22459">Paper</a> /
-        <a href="https://github.com/David-cripto/RealUID">Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://openreview.net/pdf?id=UCJSF6Vt0C"><b>IBMD</b></a><br>
-        <sub>Inverse Bridge Matching Distillation</sub>
-      </td>
-      <td><b>ICML 2025</b></td>
-      <td>Fast image-to-image generation from bridge models.</td>
-      <td>
-        <a href="https://openreview.net/pdf?id=UCJSF6Vt0C">Paper</a> /
-        <a href="https://github.com/ngushchin/IBMD">Code</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Project | Venue | Focus | Links |
+| --- | --- | --- | --- |
+| [**IDLM**](https://david-cripto.github.io/idlm-project-page/) | ICML 2026 | Few-step diffusion language generation | [Project](https://david-cripto.github.io/idlm-project-page/) / [Paper](https://arxiv.org/abs/2602.19066) / [Code](https://github.com/David-cripto/IDLM) |
+| [**RealUID**](https://arxiv.org/abs/2509.22459) | ICLR 2026 Oral | Real-data inverse distillation | [Paper](https://arxiv.org/abs/2509.22459) / [Code](https://github.com/David-cripto/RealUID) |
+| [**IBMD**](https://openreview.net/pdf?id=UCJSF6Vt0C) | ICML 2025 | Fast bridge-model generation | [Paper](https://openreview.net/pdf?id=UCJSF6Vt0C) / [Code](https://github.com/ngushchin/IBMD) |
 
 ## LiSearch
 
