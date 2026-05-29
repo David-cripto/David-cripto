@@ -22,11 +22,55 @@ Currently, I am a first-year PhD student at MBZUAI, supervised by [Eric Moulines
 
 ## Selected highlights
 
-| Work | Why it matters |
-| --- | --- |
-| [IDLM: Inverse-distilled Diffusion Language Models](https://david-cripto.github.io/idlm-project-page/) | Few-step diffusion language generation. ICML 2026. [Code](https://github.com/David-cripto/IDLM) |
-| [RealUID](https://arxiv.org/abs/2509.22459) | Inverse distillation with real-data supervision, no GAN training. ICLR 2026 Oral. [Code](https://github.com/David-cripto/RealUID) |
-| [Inverse Bridge Matching Distillation](https://openreview.net/pdf?id=UCJSF6Vt0C) | Fast image-to-image generation from bridge models. ICML 2025. [Code](https://github.com/ngushchin/IBMD) |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Venue</th>
+      <th align="left">Focus</th>
+      <th align="left">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://david-cripto.github.io/idlm-project-page/"><b>IDLM</b></a><br>
+        <sub>Inverse-distilled Diffusion Language Models</sub>
+      </td>
+      <td><b>ICML 2026</b></td>
+      <td>Few-step diffusion language generation.</td>
+      <td>
+        <a href="https://david-cripto.github.io/idlm-project-page/">Project</a> /
+        <a href="https://arxiv.org/abs/2602.19066">Paper</a> /
+        <a href="https://github.com/David-cripto/IDLM">Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://arxiv.org/abs/2509.22459"><b>RealUID</b></a><br>
+        <sub>Universal Inverse Distillation</sub>
+      </td>
+      <td><b>ICLR 2026</b><br><sub>Oral</sub></td>
+      <td>Real-data supervision for inverse distillation, without GAN training.</td>
+      <td>
+        <a href="https://arxiv.org/abs/2509.22459">Paper</a> /
+        <a href="https://github.com/David-cripto/RealUID">Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://openreview.net/pdf?id=UCJSF6Vt0C"><b>IBMD</b></a><br>
+        <sub>Inverse Bridge Matching Distillation</sub>
+      </td>
+      <td><b>ICML 2025</b></td>
+      <td>Fast image-to-image generation from bridge models.</td>
+      <td>
+        <a href="https://openreview.net/pdf?id=UCJSF6Vt0C">Paper</a> /
+        <a href="https://github.com/ngushchin/IBMD">Code</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## LiSearch
 
