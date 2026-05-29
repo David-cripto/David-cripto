@@ -5,13 +5,25 @@
 </p>
 
 <p align="center">
-  <a href="https://david-cripto.github.io/Bio-page/" title="Research website"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=L88Qc4YAAAAJ" title="Google Scholar"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://www.linkedin.com/in/david-li-ab07b332b/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/LiDavid2002" title="X"><img src="https://img.shields.io/badge/@LiDavid2002-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://t.me/LiSearch" title="LiSearch Telegram"><img src="https://img.shields.io/badge/LiSearch-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="LiSearch Telegram"></a>
-  <a href="https://www.youtube.com/@davidli2272" title="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="mailto:David.Li@mbzuai.ac.ae" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://david-cripto.github.io/Bio-page/" title="Research website"><img src="assets/social/website.svg" width="46" alt="Website"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=L88Qc4YAAAAJ" title="Google Scholar"><img src="assets/social/scholar.svg" width="46" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/david-li-ab07b332b/" title="LinkedIn"><img src="assets/social/linkedin.svg" width="46" alt="LinkedIn"></a>
+  <a href="https://x.com/LiDavid2002" title="X"><img src="assets/social/x.svg" width="46" alt="X"></a>
+  <a href="https://t.me/LiSearch" title="LiSearch Telegram"><img src="assets/social/telegram.svg" width="46" alt="LiSearch Telegram"></a>
+  <a href="https://www.youtube.com/@davidli2272" title="YouTube"><img src="assets/social/youtube.svg" width="46" alt="YouTube"></a>
+  <a href="mailto:David.Li@mbzuai.ac.ae" title="Email"><img src="assets/social/email.svg" width="46" alt="Email"></a>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://david-cripto.github.io/Bio-page/">Website</a> /
+    <a href="https://scholar.google.com/citations?hl=en&user=L88Qc4YAAAAJ">Scholar</a> /
+    <a href="https://www.linkedin.com/in/david-li-ab07b332b/">LinkedIn</a> /
+    <a href="https://x.com/LiDavid2002">X</a> /
+    <a href="https://t.me/LiSearch">Telegram</a> /
+    <a href="https://www.youtube.com/@davidli2272">YouTube</a> /
+    <a href="mailto:David.Li@mbzuai.ac.ae">Email</a>
+  </sub>
 </p>
 
 ---
@@ -48,8 +60,8 @@ I like research that connects theory with systems people can actually run: effic
 I created **LiSearch** for people who want to understand generative model papers through discussion. I share short paper notes, highlight key ideas, and invite researchers, students, and enthusiasts to continue the conversation.
 
 <p>
-  <a href="https://t.me/LiSearch"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="LiSearch Telegram"></a>
-  <a href="https://www.youtube.com/@davidli2272"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="LiSearch YouTube"></a>
+  <a href="https://t.me/LiSearch"><img src="assets/social/telegram.svg" width="42" alt="LiSearch Telegram"></a>
+  <a href="https://www.youtube.com/@davidli2272"><img src="assets/social/youtube.svg" width="42" alt="LiSearch YouTube"></a>
 </p>
 
 ## Recent publication snapshot

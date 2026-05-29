@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">LinkedIn</title>
+  <defs>
+    <linearGradient id="bg" x1="9" y1="7" x2="55" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#0a66c2"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#0f172a" flood-opacity=".20"/>
+    </filter>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
+  <circle cx="21" cy="23" r="4" fill="#fff"/>
+  <rect x="17" y="29" width="8" height="20" rx="2" fill="#fff"/>
+  <path d="M30 29h8v3c2-2 5-4 9-4 7 0 10 5 10 13v8h-8v-8c0-4-2-7-6-7-3 0-5 2-5 7v8h-8V29Z" fill="#fff"/>
+</svg>
