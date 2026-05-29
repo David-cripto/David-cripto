@@ -3,10 +3,6 @@
 <h3 align="center">From slow samplers to few-step generators.</h3>
 
 <p align="center">
-  I make diffusion models faster through inverse distillation.
-</p>
-
-<p align="center">
   <a href="https://david-cripto.github.io/Bio-page/" title="Research website"><img src="assets/social/website.svg" width="46" alt="Website"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=L88Qc4YAAAAJ" title="Google Scholar"><img src="assets/social/scholar.svg" width="46" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/david-li-ab07b332b/" title="LinkedIn"><img src="assets/social/linkedin.svg" width="46" alt="LinkedIn"></a>
@@ -18,11 +14,7 @@
 
 ---
 
-<p align="center">
-  <b>slow teacher</b> -> <b>few-step student</b> -> <b>practical generation</b>
-</p>
-
-## Short version
+## About me
 
 I work on fast generative modeling: distilling strong diffusion and matching-model teachers into compact students that sample in a few steps.
 
